@@ -105,9 +105,9 @@ $(document).ready(function() {
 		/* Date and time when your site starts to work */
 
 		var c = {
-			year : 2020,
+			year : 2022,
 			month : 11,
-			day : 8,
+			day : 30,
 			hh : 00,
 			min : 00,
 			sec : 0,
